@@ -75,4 +75,4 @@ class Study_conduct
 end
 
 Study_conduct.new.study_conduct("Covid")
-Ruby_Assignment
+
